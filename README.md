@@ -1,6 +1,6 @@
 # My week
 
-A new Flutter project called my week.
+A new Flutter project called My Week.
 
 ## Getting Started
 
